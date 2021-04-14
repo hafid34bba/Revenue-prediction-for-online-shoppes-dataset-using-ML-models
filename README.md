@@ -23,7 +23,7 @@ using different machine learning models
 | Bac           | 0.76          |
 
 # Roc curve
-![](Image/face.gif)
+![](Images/random_curve.png)
 
 
 # 2- using Dicision
@@ -34,7 +34,7 @@ using different machine learning models
 | Bac           | 0.72          |
 
 # Roc curve
-![](Image/face.gif)
+![](Images/decision_curve.png)
 
 
 
@@ -46,7 +46,7 @@ using different machine learning models
 | Bac           | 0.73          |
 
 # Roc curve
-![](Image/face.gif)
+![](Images/svm_curve.png)
 
 
 
@@ -58,5 +58,5 @@ using different machine learning models
 | Bac           | 0.71          |
 
 # Roc curve
-![](Image/face.gif)
+![](Images/xgboost_curve.png)
 
