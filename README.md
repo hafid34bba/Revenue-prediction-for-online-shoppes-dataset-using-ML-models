@@ -26,7 +26,7 @@ using different machine learning models
 ![](Image/face.gif)
 
 
-# 1- using Dicision
+# 2- using Dicision
 | Metric        | value         |
 | ------------- | ------------- |
 | Accuracy      | 0.85          |
@@ -38,7 +38,7 @@ using different machine learning models
 
 
 
-# 1- using SVM
+# 3- using SVM
 | Metric        | value         |
 | ------------- | ------------- |
 | Accuracy      | 0.89           |
@@ -50,7 +50,7 @@ using different machine learning models
 
 
 
-# 1- using Xgboost
+# 4- using Xgboost
 | Metric        | value         |
 | ------------- | ------------- |
 | Accuracy      | 0.88           |
