@@ -7,10 +7,10 @@ using different machine learning models
 
 # Steps for data preprocessing
 
-1- transform text columns to categorial
-2- encode labels
-3- scale the data using min max
-4-split the data into train and test
+1- transform text columns to categorial <br/>
+2- encode labels <br/>
+3- scale the data using min max<br/>
+4-split the data into train and test<br/>
 
 
 # Training step
