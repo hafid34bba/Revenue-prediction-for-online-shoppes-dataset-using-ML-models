@@ -25,3 +25,38 @@ using different machine learning models
 # Roc curve
 ![](Image/face.gif)
 
+
+# 1- using Dicision
+| Metric        | value         |
+| ------------- | ------------- |
+| Accuracy      | 0.85          |
+| F1-score      | 0.53          |
+| Bac           | 0.72          |
+
+# Roc curve
+![](Image/face.gif)
+
+
+
+# 1- using SVM
+| Metric        | value         |
+| ------------- | ------------- |
+| Accuracy      | 0.89           |
+| F1-score      | 0.59          |
+| Bac           | 0.73          |
+
+# Roc curve
+![](Image/face.gif)
+
+
+
+# 1- using Xgboost
+| Metric        | value         |
+| ------------- | ------------- |
+| Accuracy      | 0.88           |
+| F1-score      | 0.55          |
+| Bac           | 0.71          |
+
+# Roc curve
+![](Image/face.gif)
+
